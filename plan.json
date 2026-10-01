@@ -1,0 +1,502 @@
+[
+ {
+  "file_mock": 1,
+  "app_mock": 51,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 51 – Foundation Seed",
+  "file": "m51.json",
+  "fp": "2431141324321432243133142421431224413312421331124243241313424312314211432423143321421423423124131324",
+  "key_balance": "25/25/25/25",
+  "bytes": 209000
+ },
+ {
+  "file_mock": 2,
+  "app_mock": 52,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 52 – Foundation Strengthen",
+  "file": "m52.json",
+  "fp": "3312434132241214243113241133244421234213212434314421321342213411233413224133234142142314123144312234",
+  "key_balance": "25/25/25/25",
+  "bytes": 219443
+ },
+ {
+  "file_mock": 3,
+  "app_mock": 53,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 53 – Foundation Blend – Spaced Recall",
+  "file": "m53.json",
+  "fp": "3421431241323431212413241232411434323421342114232341424131322314432124341123312143244321312344124211",
+  "key_balance": "26/25/24/25",
+  "bytes": 250920
+ },
+ {
+  "file_mock": 4,
+  "app_mock": 54,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 54 – Foundation Challenge – Higher-Order Application",
+  "file": "m54.json",
+  "fp": "2431344122131214323412333414214231332444121213244122314331421243413243421123324133423124142314142123",
+  "key_balance": "25/25/25/25",
+  "bytes": 293943
+ },
+ {
+  "file_mock": 5,
+  "app_mock": 55,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 55 – Foundation Benchmark – S1 Final Simulation",
+  "file": "m55.json",
+  "fp": "3421214331242314341122443231121341423423213344124324112324412331414243212331241443442313212321311243",
+  "key_balance": "25/25/25/25",
+  "bytes": 277381
+ },
+ {
+  "file_mock": 6,
+  "app_mock": 56,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 56 – Core Seed",
+  "file": "m56.json",
+  "fp": "3142234121431423231441233143242124133241134243221324121432143212343143141423142341233142142314432332",
+  "key_balance": "24/25/26/25",
+  "bytes": 246881
+ },
+ {
+  "file_mock": 7,
+  "app_mock": 57,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 57 – Core Consolidate",
+  "file": "m57.json",
+  "fp": "3244112343123142324124312314421341321344214323122113432414323214234143312124322143144123432124314123",
+  "key_balance": "25/25/25/25",
+  "bytes": 286546
+ },
+ {
+  "file_mock": 8,
+  "app_mock": 58,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 58 – Core Blend – Spaced Recall",
+  "file": "m58.json",
+  "fp": "2113244133222431242312331421431334314123233142411432131424324321423114321142332412314342341232212244",
+  "key_balance": "24/27/26/23",
+  "bytes": 319197
+ },
+ {
+  "file_mock": 9,
+  "app_mock": 59,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 59 – Core Challenge",
+  "file": "m59.json",
+  "fp": "4342241144341433424112411444143212313334224242322233114224122131222334243342212423241431314333142442",
+  "key_balance": "20/28/23/29",
+  "bytes": 346537
+ },
+ {
+  "file_mock": 10,
+  "app_mock": 60,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 60 – Core Benchmark – S2 Final Simulation",
+  "file": "m60.json",
+  "fp": "4123141323224341241323143214341221322323433313313213141443342331332432143422122114433423121442133142",
+  "key_balance": "23/24/31/22",
+  "bytes": 335815
+ },
+ {
+  "file_mock": 11,
+  "app_mock": 61,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 61 – Clinical Application Seed",
+  "file": "m61.json",
+  "fp": "2314124331242423113413122422413241331333234132334242344144243434434414423421343211133242142444231311",
+  "key_balance": "21/22/27/30",
+  "bytes": 298849
+ },
+ {
+  "file_mock": 12,
+  "app_mock": 62,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 62 – Clinical Consolidate",
+  "file": "m62.json",
+  "fp": "4213143213244123412342331231412422212323132324421444144234231444244244213124122432431143314224431231",
+  "key_balance": "21/28/21/30",
+  "bytes": 295950
+ },
+ {
+  "file_mock": 13,
+  "app_mock": 63,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 63 – Clinical Blend – Spaced Recall",
+  "file": "m63.json",
+  "fp": "1132423141324132142334212143321444311232321142433424331214123241433241212431314422311432213423412314",
+  "key_balance": "26/25/25/24",
+  "bytes": 286292
+ },
+ {
+  "file_mock": 14,
+  "app_mock": 64,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 64 – Clinical Challenge",
+  "file": "m64.json",
+  "fp": "2143243143412231124344134322412342131334344324244421444133414414322242431233442134241241332124331313",
+  "key_balance": "20/22/26/32",
+  "bytes": 328518
+ },
+ {
+  "file_mock": 15,
+  "app_mock": 65,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 65 – Clinical Benchmark – S3 Final",
+  "file": "m65.json",
+  "fp": "2442133231433313143323334323221423243124241313412432143243212341132434212431411342243132324431124233",
+  "key_balance": "20/25/32/23",
+  "bytes": 292924
+ },
+ {
+  "file_mock": 16,
+  "app_mock": 66,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 66 – GI and Labour Seed",
+  "file": "m66.json",
+  "fp": "1423332233131141231433323133141423243142321422241324311433114423432113421423143324124321412342313124",
+  "key_balance": "25/23/30/22",
+  "bytes": 264088
+ },
+ {
+  "file_mock": 17,
+  "app_mock": 67,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 67 – GI and Labour Consolidate",
+  "file": "m67.json",
+  "fp": "1232133323241414123242414441443131414241231321424431442423313414244324342241134324123134212423412134",
+  "key_balance": "23/23/22/32",
+  "bytes": 323499
+ },
+ {
+  "file_mock": 18,
+  "app_mock": 68,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 68 – GI Labour Blend – Spaced Recall",
+  "file": "m68.json",
+  "fp": "3312443324133432212423221422231112433241431241343441441144323134243412134314224314432313433231122444",
+  "key_balance": "21/23/27/29",
+  "bytes": 330337
+ },
+ {
+  "file_mock": 19,
+  "app_mock": 69,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 69 – GI Labour Challenge",
+  "file": "m69.json",
+  "fp": "3142413223431421432413122241314321143434412122431133422234343131242213321324423144134212332114323412",
+  "key_balance": "24/26/26/24",
+  "bytes": 343152
+ },
+ {
+  "file_mock": 20,
+  "app_mock": 70,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 70 – GI Labour Benchmark – S4 Final",
+  "file": "m70.json",
+  "fp": "2243134124122431421133243412124314332143224132142341134212334232423142132431431421132132234121342324",
+  "key_balance": "24/28/25/23",
+  "bytes": 339780
+ },
+ {
+  "file_mock": 21,
+  "app_mock": 71,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 71 – Maternal Child Seed",
+  "file": "m71.json",
+  "fp": "1211424333223243313243423231422231344321413242313214312443213241113244233214421234214134422132242341",
+  "key_balance": "21/29/26/24",
+  "bytes": 268666
+ },
+ {
+  "file_mock": 22,
+  "app_mock": 72,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 72 – Maternal Child Consolidate",
+  "file": "m72.json",
+  "fp": "2341244313321421314223241334314122144213324132414123342142231342143124131324314234231421132122432332",
+  "key_balance": "24/27/26/23",
+  "bytes": 277715
+ },
+ {
+  "file_mock": 23,
+  "app_mock": 73,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 73 – Maternal Child Blend – Spaced Recall",
+  "file": "m73.json",
+  "fp": "2232412213222314111224341313411241143241212221213213322131211312311134343432143414244224321434341343",
+  "key_balance": "29/27/23/21",
+  "bytes": 304704
+ },
+ {
+  "file_mock": 24,
+  "app_mock": 74,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 74 – Maternal Child Challenge",
+  "file": "m74.json",
+  "fp": "1423243121143243313244314244424423224124212424332422213121442433112214312314212412431413411332144231",
+  "key_balance": "24/28/20/28",
+  "bytes": 531974
+ },
+ {
+  "file_mock": 25,
+  "app_mock": 75,
+  "phase": "Phase 1 – Foundation",
+  "title": "RRB NS | Phase 1 – Foundation | Mock 75 – Maternal Child Benchmark – S5 Final",
+  "file": "m75.json",
+  "fp": "2413431212433412412322214342313433114412321431424443314221113223123114234432214133421242433132142413",
+  "key_balance": "25/25/25/25",
+  "bytes": 457317
+ },
+ {
+  "file_mock": 26,
+  "app_mock": 76,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 76 – Advanced Admin Seed",
+  "file": "m76.json",
+  "fp": "2333221312231221411241232111241234211343231444333223321144333444331334324134432411142211442141224442",
+  "key_balance": "25/25/25/25",
+  "bytes": 421043
+ },
+ {
+  "file_mock": 27,
+  "app_mock": 77,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 77 – Advanced Admin Consolidate",
+  "file": "m77.json",
+  "fp": "1441414231331313331313231414341113421443424123323242344431131121413322132214222332244334321134213424",
+  "key_balance": "26/21/29/24",
+  "bytes": 666352
+ },
+ {
+  "file_mock": 28,
+  "app_mock": 78,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 78 – Advanced Admin Blend",
+  "file": "m78.json",
+  "fp": "4323133211314434213233142111341314233311232312313344412414411312211141314441233221413212223132224243",
+  "key_balance": "30/23/27/20",
+  "bytes": 498038
+ },
+ {
+  "file_mock": 29,
+  "app_mock": 79,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 79 – Advanced Application Challenge",
+  "file": "m79.json",
+  "fp": "2431232434212231131241332443114242111234431323134141121221443424341432233342341442243221123143113243",
+  "key_balance": "25/25/25/25",
+  "bytes": 615557
+ },
+ {
+  "file_mock": 30,
+  "app_mock": 80,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 80 – Advanced Application Benchmark – Exam Simulation",
+  "file": "m80.json",
+  "fp": "1323232432134234324131423423142421241324312143243241413213114224432134122111441121431432333113444322",
+  "key_balance": "25/25/25/25",
+  "bytes": 512671
+ },
+ {
+  "file_mock": 31,
+  "app_mock": 81,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 81 – Critical Care Emergency Seed",
+  "file": "m81.json",
+  "fp": "1223433321213133424441113311341333123421444321224142213123442214243132244344431423214114121222433312",
+  "key_balance": "25/25/25/25",
+  "bytes": 307193
+ },
+ {
+  "file_mock": 32,
+  "app_mock": 82,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 82 – Critical Care and Emergency Consolidate – Exam Simulation",
+  "file": "m82.json",
+  "fp": "4121413434333122443133112412143114132341322321124333414142413134431414113331211223212232211224113213",
+  "key_balance": "32/22/26/20",
+  "bytes": 605471
+ },
+ {
+  "file_mock": 33,
+  "app_mock": 83,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 83 – Critical Care and Emergency Blend",
+  "file": "m83.json",
+  "fp": "2212132433131344143112423214111324211422424144324434231334313433413344342311211424133123323114222123",
+  "key_balance": "26/23/27/24",
+  "bytes": 576724
+ },
+ {
+  "file_mock": 34,
+  "app_mock": 84,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 84 – Critical Care Emergency Challenge",
+  "file": "m84.json",
+  "fp": "4114334111212414411131323344313322133344133313124343123242424222442241443221144142241341223122231323",
+  "key_balance": "25/25/25/25",
+  "bytes": 473047
+ },
+ {
+  "file_mock": 35,
+  "app_mock": 85,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 85 – S7 Benchmark Checkpoint 7 – Critical Care Emergency Simulation",
+  "file": "m85.json",
+  "fp": "2213341424341332242143111341121223411411121314323323143421343323244322212132124442324422344232223141",
+  "key_balance": "24/29/24/23",
+  "bytes": 424157
+ },
+ {
+  "file_mock": 36,
+  "app_mock": 86,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 86 – CEN Pattern Simulation Seed",
+  "file": "m86.json",
+  "fp": "3334433234342211242121222342214333241121234111414331441244112132414211444122243414234121211442132442",
+  "key_balance": "27/27/18/28",
+  "bytes": 537697
+ },
+ {
+  "file_mock": 37,
+  "app_mock": 87,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 87 – CEN Consolidation L4",
+  "file": "m87.json",
+  "fp": "4334334311413431241243212423212334222143131142341411214342342124314211232334112421332441333223443221",
+  "key_balance": "24/25/27/24",
+  "bytes": 891328
+ },
+ {
+  "file_mock": 38,
+  "app_mock": 88,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 88 – Blend First-Action S8",
+  "file": "m88.json",
+  "fp": "1414122332132414242433234233313133211313144212344223144422242223311343342311412131324121233343322234",
+  "key_balance": "22/27/30/21",
+  "bytes": 588342
+ },
+ {
+  "file_mock": 39,
+  "app_mock": 89,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 89 – S8 CEN Challenge – Multi-system Emergencies Simulation",
+  "file": "m89.json",
+  "fp": "1143332423421344143242312421142133222342141234324134233312432331331442243431132112241334242114123331",
+  "key_balance": "23/25/29/23",
+  "bytes": 967836
+ },
+ {
+  "file_mock": 40,
+  "app_mock": 90,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 90 – S8 Benchmark Checkpoint 8 – Integrated Exam Simulation Peak",
+  "file": "m90.json",
+  "fp": "2214231132334424141433234214422432312144122214124143414431444243412223332423332131131431123411311234",
+  "key_balance": "25/24/24/27",
+  "bytes": 898106
+ },
+ {
+  "file_mock": 41,
+  "app_mock": 91,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 91 – S9 Seed – High-Yield Evergreen",
+  "file": "m91.json",
+  "fp": "3124241314321422324341133432111412423424431322311243231443123142421313241342223124234413134123413121",
+  "key_balance": "26/25/25/24",
+  "bytes": 777752
+ },
+ {
+  "file_mock": 42,
+  "app_mock": 92,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 92 – S9 Consolidate – High-Yield Evergreen Second Pass",
+  "file": "m92.json",
+  "fp": "3242232343234112111232111242421444313121144133214343341331331234344431142223241212412134423221443432",
+  "key_balance": "25/25/25/25",
+  "bytes": 934138
+ },
+ {
+  "file_mock": 43,
+  "app_mock": 93,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 93 – High-Yield Evergreen Blend",
+  "file": "m93.json",
+  "fp": "4231341242132413421341232313241441323421123342114234123142343214432124213214143232341413421231343331",
+  "key_balance": "25/24/27/24",
+  "bytes": 1019402
+ },
+ {
+  "file_mock": 44,
+  "app_mock": 94,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 94 – S9 Challenge – Hardest Integrated Judgement plus 15 Evergreen",
+  "file": "m94.json",
+  "fp": "4124231211123443313321113313134144222321141334422443132121332413312141412213131233244422333244244424",
+  "key_balance": "26/24/26/24",
+  "bytes": 456824
+ },
+ {
+  "file_mock": 45,
+  "app_mock": 95,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 95 – S9 Benchmark Checkpoint 9 – High-Yield Peak plus 15 Evergreen",
+  "file": "m95.json",
+  "fp": "1333421424144142421144133411234334241124122234121233242224121334112212132341223123214133132112314411",
+  "key_balance": "30/27/21/22",
+  "bytes": 444327
+ },
+ {
+  "file_mock": 46,
+  "app_mock": 96,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 96 – Final Replica Seed L5",
+  "file": "m96.json",
+  "fp": "4131423124134212432134324124312134123441324312213442313421314242134312124312432332233232414114411432",
+  "key_balance": "25/25/25/25",
+  "bytes": 582659
+ },
+ {
+  "file_mock": 47,
+  "app_mock": 97,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 97 – Final Replica Consolidate – Integrated L5 plus 15 Evergreen",
+  "file": "m97.json",
+  "fp": "3112242133122213343212412242131331333431434443222413141434143241241434311441231321144414441442121221",
+  "key_balance": "28/22/22/28",
+  "bytes": 785576
+ },
+ {
+  "file_mock": 48,
+  "app_mock": 98,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 98 – S10 Blend – Final Replica Harder plus 15 Evergreen",
+  "file": "m98.json",
+  "fp": "3132234231422133424131312231144421434214142433314244113234441241334324414312221113443234213134412424",
+  "key_balance": "24/22/24/30",
+  "bytes": 813127
+ },
+ {
+  "file_mock": 49,
+  "app_mock": 99,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 99 – S10 Challenge – Hardest Integrated Judgement plus 15 Evergreen",
+  "file": "m99.json",
+  "fp": "1341311324123341221443334414213324233444231212131131431424342343114443112243123211234133241424132422",
+  "key_balance": "26/22/26/26",
+  "bytes": 884494
+ },
+ {
+  "file_mock": 50,
+  "app_mock": 100,
+  "phase": "Phase 4 – Advanced (CEN Level)",
+  "title": "RRB NS | Phase 4 – Advanced (CEN Level) | Mock 100 – S10 Benchmark Checkpoint 10 FINAL – Final Exam Replica Peak plus 15 Evergreen",
+  "file": "m100.json",
+  "fp": "2113131121433244211324411411423311142223222434343421333233324313214422134413411444121434223123424223",
+  "key_balance": "25/25/25/25",
+  "bytes": 478803
+ }
+]
